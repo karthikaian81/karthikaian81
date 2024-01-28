@@ -5,7 +5,6 @@ Software Engineer @ Access healthcare
 - 🌱 I’m currently learning Azure,React
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
-<br /> 
 - 😄 Pronouns: Techie
 
 ### I code in
